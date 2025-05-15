@@ -18,6 +18,7 @@ It allows users to:
 - OpenWeatherMap API - Weather data
 - Python Requests - HTTP requests
 
+
 ## Project Structure
 
 -----------------
